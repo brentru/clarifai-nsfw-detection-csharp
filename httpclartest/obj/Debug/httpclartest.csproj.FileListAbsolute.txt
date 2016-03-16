@@ -1,0 +1,6 @@
+C:\Users\brent\Desktop\vsprojects\httpclartest\httpclartest\bin\Debug\httpclartest.exe.config
+C:\Users\brent\Desktop\vsprojects\httpclartest\httpclartest\bin\Debug\httpclartest.exe
+C:\Users\brent\Desktop\vsprojects\httpclartest\httpclartest\bin\Debug\httpclartest.pdb
+C:\Users\brent\Desktop\vsprojects\httpclartest\httpclartest\obj\Debug\httpclartest.csprojResolveAssemblyReference.cache
+C:\Users\brent\Desktop\vsprojects\httpclartest\httpclartest\obj\Debug\httpclartest.exe
+C:\Users\brent\Desktop\vsprojects\httpclartest\httpclartest\obj\Debug\httpclartest.pdb
